@@ -1,5 +1,5 @@
 {
-    "name": "LegallaisEcommerce/TwigDoctrineDump",
+    "name": "legallais/zf2-twig-doctrine-dump",
     "description": "DoctrineDump for twig in ZF2",
     "type": "library",
     "license": "MIT",
